@@ -1,7 +1,3 @@
-08-19 LeetCode 0001 - Two Sum
-
-2017-11-07  [LeetCode](http://reckful.studio/categories/LeetCode/)
-
 ## Desicription
 
 Given an array of **integers**, return indices of the two numbers such that they add up to a specific target.
