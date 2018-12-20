@@ -1,15 +1,14 @@
 # note-on-cs
 
-## 1.python
 
-## python itself
+## 1.1python itself
 ### reading list
 
 ### my note
 
 
 
-## python data structure
+## 1.2python data structure
 ### reading list
 
 https://docs.python.org/3/tutorial/datastructures.html
