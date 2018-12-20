@@ -1,9 +1,28 @@
 # note-on-cs
-我的博客目录：
 
-[LeetCode 0001 - Two Sum](https://github.com/bluove/note-on-cs/blob/master/poster/LeetCode%200001%20-%20Two%20Sum.md)
+## 1.python
 
-[MachineLearning 01 - VC dimension](https://github.com/bluove/note-on-cs/blob/master/poster/MachineLearning%2001%20-%20VC%20dimension.md)
+## python itself
+### reading list
+
+### my note
+
+
+
+## python data structure
+### reading list
+
+https://docs.python.org/3/tutorial/datastructures.html
+
+https://www.tutorialspoint.com/python/python_amortized_analysis.htm
+
+
+### my note
+
+
+
+
+## 2.c++
 
 
 
